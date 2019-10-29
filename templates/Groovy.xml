@@ -1,0 +1,7 @@
+<templateSet group="Groovy">
+  <template name="pr" value="println &quot;$END$&quot;" description="Prints a formatted string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+</templateSet>
