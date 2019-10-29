@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="fileIcons" value="false" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isPsiIcons" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="8c9ee9" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="de778ef:16e1904b36e:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
