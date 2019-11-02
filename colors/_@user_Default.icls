@@ -3,7 +3,7 @@
     <property name="created">2019-07-19T22:17:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-10-29T14:40:39</property>
+    <property name="modified">2019-11-02T17:17:41</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -28,4 +28,18 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
