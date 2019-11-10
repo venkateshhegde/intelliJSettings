@@ -11,10 +11,13 @@
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialIcons" value="false" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="8c9ee9" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
-    <option name="userId" value="de778ef:16e1904b36e:-8000" />
+    <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="tabsHeight" value="11" />
+    <option name="accentColor" value="8e83c2" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="579ba0c8:16c0d2b08c1:-8000" />
     <option name="version" value="4.5.2" />
+    <option name="tabHighlightPosition" value="Left" />
   </component>
 </application>

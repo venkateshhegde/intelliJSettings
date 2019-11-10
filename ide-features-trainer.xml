@@ -17,6 +17,7 @@
         <entry key="Completion with Tab" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
         <entry key="Duplicate" value="NOT_PASSED" />
+        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
         <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="Extract Method" value="NOT_PASSED" />
