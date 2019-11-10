@@ -1,1 +1,16 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
+    <option name="USE_FQ_CLASS_NAMES" value="true" />
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+  </codeStyleSettings>
+</code_scheme>
